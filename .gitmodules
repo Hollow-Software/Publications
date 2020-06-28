@@ -1,0 +1,3 @@
+[submodule "AutoVoting for Yunmai"]
+	path = "Voting System based on Wechat Pay/AutoVoting for Yunmai"
+	url = https://github.com/HollowMan6/AutoVoting-for-Yunmai.git
