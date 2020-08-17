@@ -20,6 +20,6 @@ Here is a collection of publications related repositories.
 
 `git submodule update --init`
 
-* [基于微信支付平台的在线投票系统(Voting System based on Wechat Pay)](https://github.com/Hollow-Software/Publications/blob/master/Voting%20System%20based%20on%20Wechat%20Pay/%E5%9F%BA%E4%BA%8E%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%9C%A8%E7%BA%BF%E6%8A%95%E7%A5%A8%E7%B3%BB%E7%BB%9F_%E8%92%8B%E5%B5%A9%E6%9E%97.pdf)
+* [基于微信支付平台的在线投票系统(Voting System based on Wechat Pay)](https://hollowman6.github.io/Publications/?id=0)
   * [AutoVoting for Yunmai](https://github.com/HollowMan6/AutoVoting-for-Yunmai)
 
