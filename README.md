@@ -10,6 +10,8 @@
 
 [查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/4)
 
+[Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
+
 这里汇聚了我的论文有关仓库。
 
 Here is a collection of publications related repositories.
